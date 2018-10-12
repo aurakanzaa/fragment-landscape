@@ -6,7 +6,7 @@ public class Resep {
     private String deskripsi;
 
     public static final Resep[] resepmakanan={
-            new Resep("Cilok", "tepung, terasi, air" ),
+            new Resep("KAMAR A", "tepung, terasi, air" ),
             new Resep("Batagor", "tepung, kacang, daging" ),
             new Resep("Bakwan", "tepung, jagung, air" ),
 
